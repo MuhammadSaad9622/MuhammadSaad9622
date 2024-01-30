@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working **as a Software Engineer and contributing to frontend and backend for building web applications. Favourite techs: Python, MERN, Java**
 
-- 📫 How to reach me **saadnadeem952@gmail.com**
+- 📫 How to reach me **saadnadeem962@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
